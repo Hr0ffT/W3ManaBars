@@ -2,8 +2,6 @@
 
 Mana bars under the unit health bars for **Warcraft III 1.26a, 1.27b and 1.28.5**, as in the later patches.
 
-[Описание на русском](README.ru.md)
-
 - Every unit with a mana pool (heroes, casters) gets a blue mana bar right under its health bar, across the same width. Units without mana get none.
 - The bar is the game's own mana bar (the one it uses in the console), placed over units. It shows and hides with the health bar and follows it everywhere.
 - With [W3TrueWidescreen](https://github.com/Hr0ffT/W3TrueWidescreen) the mana bars behave like the health bars at the console: drawn under it, moved beside it, hidden behind it.
